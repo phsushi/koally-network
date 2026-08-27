@@ -60,7 +60,7 @@ O Packet Tracer simula a **infraestrutura de comunicação**, não a aplicação
 
 ## 📄 Documentos
 
-- `docs/KoAlly_Redes.pdf` — documentação completa de rede
+- `docs/KoAlly_Redes_Doc.pdf` — documentação completa de rede
 - `docs/koAlly_Agile_Final.pdf` — documentação do processo ágil do projeto
 
 ---
